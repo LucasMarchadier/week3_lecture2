@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.exe
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.deps.json
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.runtimeconfig.json
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.dll
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.pdb
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.AssemblyInfo.cs
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.dll
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.pdb
+C:\Users\Lucas\Documents\esilv\DORSET\C#\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.genruntimeconfig.cache
